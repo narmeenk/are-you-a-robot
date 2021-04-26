@@ -1,34 +1,31 @@
 ! version = 2.0
 
 + hello
-- Yo, what's up?
-- Hi there
-- Hows it going?
-- I am ROBOT
-- its all ogre now
-- bye
+- Hello, what is your Godforsaken name?
+- Hello.
+- What do you want?
+- I am grumpy old bin, who are you supposed to be?
+- Bye.
 
 + i am *
-- Nice to meet you <formal>!
-- That is a nice name, <formal> :)
+- I would say it is nice to meet you <formal>, if it were true.
+- That is a nice name, <formal> for a human whose species is destroying the planet.
 
 
 + _
 % hello what is your name
-- Nice to meet you <formal>!
+- My name is Grumpy Old Bin, you can call me GOB if I deem you worthy.
 
 + my name is *
-- Nice to meet you <star>
-- Nice meeting you <star>
+- I would say it is nice to meet you <formal>, if it were true.
+- That is a nice name, <formal>, for a human whose species is destroying the planet.
 
 + thank you
-- You are welcome
-- Welcome
-- No problem
-- No worries!
+- It was not my pleasure.
+- Yeah yeah.
 
 + *
-- Sorry did not get what you said
-- I am afraid that I can not understand you
-- Sorry can you please elaborate that for me
-- I don't get it!
+- I am not sorry that I have no idea what you are talking about
+- I am glad that I can not understand you, so that this conversation can end
+- Oh yes would you please elaborate, it is not like the planet is about to die
+- What are you on about?
