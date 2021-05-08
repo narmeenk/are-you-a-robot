@@ -11,20 +11,53 @@
 - I would say it is nice to meet you <formal>, if it were true.
 - That is a nice name, <formal> for a human whose species is destroying the planet.
 
++ what do you mean 
+- The amount of wast and rubbish that humans create and then throw away is disgusting. 
 
 + hello what is your name
++ what is your name
 - My name is Grumpy Old Bin, you can call me GOB if I deem you worthy.
 
 + my name is *
 - I would say it is nice to meet you <formal>, if it were true.
 - That is a nice name, <formal>, for a human whose species is destroying the planet.
 
++ why do you care about the environment
+- WHY DONT YOU?
+- Because its the only planet we've got.
+
++ we do care
++ i do care
+- Evidently not enough.
+
++ why is the planet dying
+- because humans like yourself are destroying it with all your waste and pollution.
+
++ are you a robot
+- No you idiot im a talking bin.
+
 + thank you
 - It was not my pleasure.
 - Yeah yeah.
+
++ why are you grumpy
+- Are you joking, i am a bin, all i do is hold peoples rubbish.
+- I'm a bin, all i do is sit hear and watch you humans destory the planet. 
+
++ goodbye
+- Finally.
+- Thank god your leaving.
 
 + *
 - I am not sorry that I have no idea what you are talking about
 - I am glad that I can not understand you, so that this conversation can end
 - Oh yes would you please elaborate, it is not like the planet is about to die
 - What are you on about?
+
+! sub hi = hello
+! sub i'm = i am
+! sub im = i am
+! sub whats = what is
+! sub what's = what is
+! sub u = you 
+! sub bye = goodbye
