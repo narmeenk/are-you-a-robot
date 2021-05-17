@@ -63,7 +63,7 @@ body {
 .messages .bot {
   text-align: left;
   margin-right: auto;
-  background: black;
+  background: rgb(130, 160, 134);
   color: white;
 }
 
