@@ -1,33 +1,23 @@
 ! version = 2.0
 
 + hello
-- Hello, what is your Godforsaken name?
-- Hello.
-- What do you want?
-- I am grumpy old bin, who are you supposed to be?
-- Bye.
++ hi
++ hey
+- My name is Grumpy Old Bin, you can call me GOB if I deem you worthy. What is your God foresaken name?
 
 + i am *
-- I would say it is nice to meet you <formal>, if it were true.
-- That is a nice name, <formal> for a human whose species is destroying the planet.
++ my name is *
+- I would say it is nice to meet you <formal>, if it were true. Do you think you are worthy? Yes or No
+- That is a nice name, <formal> for a human whose species is destroying the planet. Do you think you are worthy? Yes or No
 
-+ what do you mean 
-- The amount of wast and rubbish that humans create and then throw away is disgusting. 
-
-+ hello what is your name
-+ what is your name
-- My name is Grumpy Old Bin, you can call me GOB if I deem you worthy.
-
-+ am i worthy
-+ what makes me worthy
-+ how will you know if i am worthy
-- If you are not one of those pesky humans who waste and pollute, you may be worthy though I highly doubt so. You humans are really self-obsessed, never think about how your actions affect your surrounding.
-- Are you always throwing things away instead of upcycling them? Answer with yes or no.
++ yes
+- Are you sure you are not one of those pesky humans who waste and pollute, you may be worthy though I highly doubt so. You humans are really self-obsessed, never think about how your actions affect your surrounding. {topic=landfill waist}
+- Are you always throwing things away instead of upcycling them? Answer with yes or no. {topic=upcycling}
 
 > topic upcycling
 
 + yes
-% are you always throwing things away instead of upcycling them?
+% are you always throwing things away instead of upcycling them? Answer with yes or no.
 - Alright then I guess you can call me GOB. Maybe there is some hope for you humans, though I doubt there are more like you. Do you even upcycle anything useful?
 
 + *
@@ -38,14 +28,16 @@
 > topic
 
 
+> topic landfill waist
+
+
+< topic
+
 + i do care for the environment
 + i am not wasteful
 - Are you sure?
 - I don't believe you
 
-+ my name is *
-- I would say it is nice to meet you <formal>, if it were true.
-- That is a nice name, <formal>, for a human whose species is destroying the planet.
 
 + why do you care about the environment
 - WHY DONT YOU?
