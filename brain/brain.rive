@@ -11,7 +11,7 @@
 - That is a nice name, <formal> for a human whose species is destroying the planet. Do you think you are worthy? Yes or No
 
 + yes
-- Are you sure you are not one of those pesky humans who waste and pollute, you may be worthy though I highly doubt so. You humans are really self-obsessed, never think about how your actions affect your surrounding. {topic=landfill waist}
+- Are you sure you are not one of those pesky humans who waste and pollute, you may think you are worthy though I highly doubt so. You humans are really self-obsessed, never think about how your actions affect your surrounding. {topic=landfill waist}
 - Are you always throwing things away instead of upcycling them? Answer with yes or no. {topic=upcycling}
 
 > topic upcycling
@@ -23,7 +23,13 @@
 + *
 % alright then i guess you can call me gob. maybe there is some hope for you humans, though i doubt there are more like you. do you even upcycle anything useful?
 - I guess I have a while before the universe explodes of filth, tell me more, it has been a while since I've had a decent conversation without wanting to rip my lid off.
-- If I had arms like you, I would make so many things out of all the clothes you humans waste. Do you know all the things you could do with just a piece of material? Answer with a yes or no.
+
++ *
+% i guess i have a while before the universe explodes of filth tell me more it has been a while since I've had a decent conversation without wanting to rip my lid off
+- Seems like a good use of your time, though the clock still ticks for our impending doom.
+
+
+
 
 > topic
 
@@ -71,11 +77,3 @@
 - I am glad that I can not understand you, so that this conversation can end
 - Oh yes would you please elaborate, it is not like the planet is about to die
 - What are you on about?
-
-! sub hi = hello
-! sub i'm = i am
-! sub im = i am
-! sub whats = what is
-! sub what's = what is
-! sub u = you 
-! sub bye = goodbye

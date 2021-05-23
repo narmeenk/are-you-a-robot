@@ -8,6 +8,13 @@
 ! var name     = RB
 
 // Substitutions
+! sub hi = hello
+! sub i'm = i am
+! sub im = i am
+! sub whats = what is
+! sub what's = what is
+! sub u = you 
+! sub bye = goodbye
 ! sub &quot;    = "
 ! sub &apos;    = '
 ! sub &amp;     = &
