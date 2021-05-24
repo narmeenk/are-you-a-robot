@@ -3,14 +3,17 @@
 + hello
 - My name is Grumpy Old Bin, you can call me GOB if I deem you worthy. What is your God foresaken name?
 
-+ my name is
-% my name is grumpy old bin you can call me gob if i deem you worthy what is your god foresaken name
++ my name is *
 - I would say it is nice to meet you <formal>, if it were true. Do you think you are worthy? Yes or No
 - That is a nice name, <formal> for a human whose species is destroying the planet. Do you think you are worthy? Yes or No
 
 + yes
 - Are you sure you are not one of those pesky humans who waste and pollute, you may think you are worthy though I highly doubt so. You humans are really self-obsessed, never think about how your actions affect your surrounding. {topic=landfill waste}
 - Are you always throwing things away instead of upcycling them? Answer with yes or no. {topic=upcycling}
+
++ no 
+- So you are one of those pesky humans who is poluting and destroying the planet. Do you even know what upcycling is? Answer with yes or no. {topic=upcycling}
+- So you are one of those pesky humans who is creating waste and destroying the planet. do you even know how mutch waste you create and how bad it is for the environment? {topic=landfill waste}
 
 > topic upcycling
 
@@ -36,8 +39,29 @@
 > topic landfill waste
 
 + i am not wasteful
+% are you sure you are not one of those pesky humans who waste and pollute you may think you are worthy though i highly doubt so you humans are really self obsessed never think about how your actions affect your surrounding
 - Are you sure?
 - I don't believe you
+
++ yes i know its bad 
+% so you are one of those pesky humans who is creating waste and destroying the planet do you even know how mutch waste you create and how bad it is for the environment
+- Evidently not otherwise you humand wouldnt keep poluting the earth. Do you even recycle?
+
++ yes
+% evidently not otherwise you humand wouldnt keep poluting the earth do you even recycle
+- Maybe our not quite as bad as i thought, atlest not as bad as other people. Mayby i will let you call be GOB.
+
++ no
+% evidently not otherwise you humand wouldnt keep poluting the earth do you even recycle
+- Its people like you that are the problem. Destroying this world with your polution and selfishness. 
+
++ *
+% its people like you that are the problem destroying this world with your polution and selfishness
+- I dont even know if i want to talk to you anymore. People like you make me so angry.
+
++ *
+% maybe our not quite as bad as i thought atlest not as bad as other people mayby i will let you call be gob
+- Its nice to talk to someone who also cares for the environment.
 
 < topic
 
