@@ -17,7 +17,7 @@
 
 > topic upcycling
 
-+ yes
++ no
 % are you always throwing things away instead of upcycling them answer with yes or no
 - Alright then I guess you can call me GOB. Maybe there is some hope for you humans, though I doubt there are more like you. Do you even upcycle anything useful?
 
@@ -27,9 +27,13 @@
 
 + *
 % i guess i have a while before the universe explodes of filth tell me more it has been a while since ive had a decent conversation without wanting to rip my lid off
-- Seems like a good use of your time, though the clock still ticks for our impending doom. 
+- Seems like a good use of your time, though the clock still ticks for our impending doom. Do you even know the benefits of upcycling? Or is it just a "trend" for you.
 
-+ no
++ ([*] know [*] | [*] trend [*])
+% seems like a good use of your time though the clock still ticks for our impending doom do you even know the benefits of upcycling or is it just a trend for you
+- If your race did not have peanut-sized brains, you would all know that 
+
++ yes
 % are you always throwing things away instead of upcycling them answer with yes or no
 - What a despicable human being. Do you know how useful upcycling is?
 
@@ -45,14 +49,14 @@
 
 + yes i know its bad 
 % so you are one of those pesky humans who is creating waste and destroying the planet do you even know how mutch waste you create and how bad it is for the environment
-- Evidently not otherwise you humand wouldnt keep poluting the earth. Do you even recycle?
+- Evidently not otherwise you humans wouldnt keep poluting the earth. Do you even recycle?
 
 + yes
-% evidently not otherwise you humand wouldnt keep poluting the earth do you even recycle
+% evidently not otherwise you humans wouldnt keep poluting the earth do you even recycle
 - Maybe our not quite as bad as i thought, atlest not as bad as other people. Mayby i will let you call be GOB.
 
 + no
-% evidently not otherwise you humand wouldnt keep poluting the earth do you even recycle
+% evidently not otherwise you humans wouldnt keep poluting the earth do you even recycle
 - Its people like you that are the problem. Destroying this world with your polution and selfishness. 
 
 + *
