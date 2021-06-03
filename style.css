@@ -33,7 +33,7 @@ body {
   background: #131413;
   box-shadow: 0px 0px 0px blueviolet;
   overflow: scroll;
-  height: 55%;
+  height: 85%;
   display: flex;
   flex-direction: column;
   padding: 0px 0px 0px 0px;
@@ -109,7 +109,7 @@ input:focus {
 @media all and (min-width: 720px) {
   .wrapper {
     width: 40vw;
-    height: 90vh;
+    height: 60vh;
     margin: 0 auto 2.5vh;
   }
 }
