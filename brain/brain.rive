@@ -9,13 +9,13 @@
 
 + yes
 - Are you sure you are not one of those pesky humans who waste and pollute, you may think you are worthy though I highly doubt so. You humans are really self-obsessed, never think about how your actions affect your surrounding. {topic=landfill waste}
-- Are you always throwing things away instead of upcycling them? Answer with yes or no. {topic=upcycling}
+- Are you always throwing things away instead of upcycling them? Answer with yes or no. {topic=worthyyesupcycling}
 
 + no 
-- So you are one of those pesky humans who is poluting and destroying the planet. Do you even know what upcycling is? Answer with yes or no. {topic=upcycling}
+- So you are one of those pesky humans who is poluting and destroying the planet. Do you even know what upcycling is? Answer with yes or no. {topic=worthynoupcycling}
 - So you are one of those pesky humans who is creating waste and destroying the planet. do you even know how mutch waste you create and how bad it is for the environment? {topic=landfill waste}
 
-> topic upcycling
+> topic worthyyesupcycling
 
 + no
 % are you always throwing things away instead of upcycling them answer with yes or no
@@ -29,15 +29,15 @@
 % i guess i have a while before the universe explodes of filth tell me more it has been a while since ive had a decent conversation without wanting to rip my lid off
 - Seems like a good use of your time, though the clock still ticks for our impending doom. Do you even know the benefits of upcycling? Or is it just a "trend" for you.
 
-+ no i dont know
++ [*] dont know [*]
 % seems like a good use of your time though the clock still ticks for our impending doom do you even know the benefits of upcycling or is it just a trend for you
 - If your race did not have peanut-sized brains, you would all know that upcycling ofcourse benefits the environment by saving materials from landfill, reducing what goes into landfills, and minimises the use of natural resources. It also has social and economic benefits like supporting local businesses and reduced manufacturing costs.
 
 + oh wow 
-% If your race did not have peanut-sized brains you would all know that upcycling ofcourse benefits the environment by saving materials from landfill reducing what goes into landfills and minimises the use of natural resources it also has social and economic benefits like supporting local businesses and reduced manufacturing costs
+% if your race did not have peanut sized brains you would all know that upcycling ofcourse benefits the environment by saving materials from landfill reducing what goes into landfills and minimises the use of natural resources it also has social and economic benefits like supporting local businesses and reduced manufacturing costs
 - Yeah no shit, "wow" and people wonder why I am grumpy, when there are people like you who exist.
 
-+ 
+
 
 + yes
 % are you always throwing things away instead of upcycling them answer with yes or no
@@ -49,9 +49,35 @@
 
 + not really
 % says the human cockroach who probably wastes their time on social media rather blabbering about the environemnt instead of actually doing something about it do you know the benefits of upcycling
-- Well then let me enlighten your tiny little brain. Upcycling has many benefits 
+- Well then let me enlighten your tiny little brain. Upcycling has many benefits you moron; such as reducing landfill waste, minimise use of natural resources, and social and economic benefits like supporting local businesses....dumbass.
+
++ im not a dumbass
+- Says the dumbass.
+
++ that is rude
+- Well so is destroying the planet but you seem to be perfectly fine with that. 
 
 > topic
+
+> topic worthynoupcycling 
+
++ no
+% so you are one of those pesky humans who is poluting and destroying the planet do you even know what upcycling is answer with yes or no
+- Wow, I already had a low opinion of you humans, now it has gone underground.
+
++ we are not that bad
+% wow i already had a low opinion on you humans now it has gone underground
+- Not bad?! My square-ass.
+
++ square ass
+% not bad my square ass
+- Well I am a Bin you baffoon.
+
++ i am not a baffoon
+- Says the moron who has no idea what upcycling is. It is a creative reuse of a product by turning it into something else you hairless ape.
+
+
+< topic
 
 
 > topic landfill waste

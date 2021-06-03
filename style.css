@@ -1,14 +1,16 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap");
+@import url("https://fonts.google.com/specimen/VT323#standard-styles");
 
 * {
-  font-family: "Inter", Arial;
-  font-size: 12pt;
+  font-family: VT323 ;
+  font-size: 15pt;
   margin: 0;
   box-sizing: border-box;
 }
 
 body {
-  background: #f2f2f2;
+  background-size: 100%;
+  background-image: url("/images/background.jpg");
+  align-items: center;
 }
 
 .title {
@@ -16,11 +18,11 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  padding-top: 292px;
 }
 
 .title h1 {
-  letter-spacing: 0.75px;
-  color: blueviolet;
+  color: rgb(0, 0, 0);
 }
 
 .wrapper {
@@ -28,14 +30,18 @@ body {
 }
 
 .chat {
-  background: white;
-  box-shadow: 10px 10px 0px blueviolet;
+  background: #131413;
+  box-shadow: 0px 0px 0px blueviolet;
   overflow: scroll;
-  height: 100%;
+  height: 52%;
   display: flex;
   flex-direction: column;
   padding: 20px 20px 0px 20px;
-  border-radius: 10px;
+  border-radius: 5px; 
+  position: fixed;
+  right: 320px;
+  bottom: 20px;
+  width:800px;
 }
 
 .messages {
@@ -57,32 +63,31 @@ body {
 }
 
 .messages div a:hover {
-  color: blueviolet;
+  color: #131413;
 }
 
 .messages .bot {
   text-align: left;
   margin-right: auto;
-  background: rgb(130, 160, 134);
-  color: white;
+  background:#131413;
+  color:rgb(43, 226, 52);
 }
 
 .messages .self {
   text-align: right;
   margin-right: 20px;
   margin-left: auto;
-  background: white;
-  border: 1px solid blueviolet;
-  color: blueviolet;
+  background: #131413;
+  color:white;
 }
 
 .actions {
   flex-shrink: 0;
   width: 100%;
   position: sticky;
-  bottom: -1px;
-  padding: 10px 0px 20px;
-  background: white;
+  bottom: 10px;
+  padding: 10px 0px 0px;
+  background: #131413;
 }
 
 .actions input {
@@ -97,7 +102,7 @@ body {
 }
 
 input:focus {
-  border-bottom: 2px solid blueviolet;
+  border-bottom: 2px solid#131413;
 }
 
 @media all and (min-width: 720px) {
