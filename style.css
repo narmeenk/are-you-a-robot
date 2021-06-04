@@ -33,13 +33,13 @@ body {
   background: #131413;
   box-shadow: 0px 0px 0px blueviolet;
   overflow: scroll;
-  height: 70%;
+  height: 65%;
   display: flex;
   flex-direction: column;
   padding: 0px 0px 0px 0px;
   border-radius: 5px; 
   position: relative;
-  top: 50px;
+  top: 80px;
   right: 178px;
   bottom: 0px;
   width:750px;
@@ -86,7 +86,7 @@ body {
   flex-shrink: 0;
   width: 100%;
   position: sticky;
-  bottom: 10px;
+  bottom: 0px;
   padding: 10px 0px 0px;
   background: #131413;
 }

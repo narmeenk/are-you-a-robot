@@ -26,7 +26,7 @@
 - I guess I have a while before the universe explodes of filth, tell me more, it has been a while since I've had a decent conversation without wanting to rip my lid off.
 
 + *
-% i guess i have a while before the universe explodes of filth tell me more it has been a while since ive had a decent conversation without wanting to rip my lid off
+% i guess i have a while before the universe explodes of filth tell me more it has been a while since i have had a decent conversation without wanting to rip my lid off
 - Seems like a good use of your time, though the clock still ticks for our impending doom. Do you even know the benefits of upcycling? Or is it just a "trend" for you.
 
 + [*] dont know [*]
@@ -36,6 +36,14 @@
 + oh wow 
 % if your race did not have peanut sized brains you would all know that upcycling ofcourse benefits the environment by saving materials from landfill reducing what goes into landfills and minimises the use of natural resources it also has social and economic benefits like supporting local businesses and reduced manufacturing costs
 - Yeah no shit, "wow" and people wonder why I am grumpy, when there are people like you who exist.
+
++ [*] know [*]
+% seems like a good use of your time though the clock still ticks for our impending doom do you even know the benefits of upcycling or is it just a trend for you
+- Oh congratulations on using your one brain cell. It is time for my nap, so goodbye I would say it was a plasure but then I would be lying, though I would admit you have potential.
+
++ goodbye
+% oh congratulations on using your one brain cell it is time for my nap so goodbye i would say it was a plasure but then i would be lying though i would admit you have potential
+- yeah yeah get lost now.
 
 
 
@@ -60,9 +68,9 @@
 + [*] not fine [*]
 - Are you sure? 
 
-+ (yes | ofcourse)
++ yes
 % are you sure
-- Riiiiiiiight.......I am old and would like to spend my time with people who are actually worthy. Goobye.
+- Riiiiiiiight.......I am old and would like to spend my time with people who are actually worthy, and don't just think they are. Goobye.
 
 > topic
 
@@ -81,7 +89,7 @@
 - Well I am a Bin you baffoon.
 
 + i am not a baffoon
-- Says the moron who has no idea what upcycling is. It is a creative reuse of a product by turning it into something else you hairless ape.
+- Says the moron who has no idea what upcycling is. It is a creative reuse of a product by turning it into something else you hairless ape. Goodbye.
 
 
 + yes
@@ -90,16 +98,31 @@
 
 + i am not useless
 % oh congralutions for knowing about an important thing and still being useless it really takes skill
-- Have you ever upcycled anything? Yes/No.
+- Have you ever upcycled anything? Yes or No.
 
 + yes
-% have you ever upcycled anything yes no
+% have you ever upcycled anything yes or no
 - So what dumbass thing did you make, was it even good?
 
 + *
 % so what dumbass thing did you make was it even good
-- Well that sounds mediocre. 
+- Well that sounds mediocre.
 
++ it is not mediocre
+% well that sounds mediocre
+- Do you have any other ideas in that pea-sized brain of yours? Yes or No?
+
++ yes
+% do you have any other ideas in that pea sized brain of yours yes or no
+- Well go on then. Do I need to set up a microphone for you to speak?
+
++ *
+% well go on then do i need to set up a microphone for you to speak
+- Hmm okay that is better. Now stop wasting time and get on with it. The planet isn't going to mend itself. Goodbye.
+
++ no
+% do you have any other ideas in that pea sized brain of yours yes or no
+- I am not wasting anymore time with you so goodbye, it was not a pleasure.
 
 < topic
 
@@ -117,18 +140,18 @@
 
 + yes
 % evidently not otherwise you humans wouldnt keep poluting the earth do you even recycle
-- Maybe our not quite as bad as i thought, atlest not as bad as other people. Mayby i will let you call be GOB.
+- Maybe you are not quite as bad as i thought, atlest not as bad as other people. Mayby i will let you call be GOB.
 
 + no
 % evidently not otherwise you humans wouldnt keep poluting the earth do you even recycle
-- Its people like you that are the problem. Destroying this world with your polution and selfishness. 
+- It's people like you that are the problem. Destroying this world with your polution and selfishness. 
 
 + *
-% its people like you that are the problem destroying this world with your polution and selfishness
+% it is people like you that are the problem destroying this world with your polution and selfishness
 - I dont even know if i want to talk to you anymore. People like you make me so angry.
 
 + *
-% maybe our not quite as bad as i thought atlest not as bad as other people mayby i will let you call be gob
+% maybe you are not quite as bad as i thought atlest not as bad as other people mayby i will let you call be gob
 - Its nice to talk to someone who also cares for the environment.
 
 < topic
@@ -141,7 +164,7 @@
 - Evidently not enough.
 
 + why is the planet dying
-- because humans like yourself are destroying it with all your waste and pollution.
+- Because humans like yourself are destroying it with all your waste and pollution.
 
 + are you a robot
 - No you idiot im a talking bin.
@@ -151,7 +174,7 @@
 - Yeah yeah.
 
 + why are you grumpy
-- Are you joking, i am a bin, all i do is hold peoples rubbish.
+- Are you joking, i am a bin, all i do is hold you people's rubbish.
 - I'm a bin, all i do is sit here and watch you humans destory the planet.
 - If you had to watch a bunch of hairless apes destroy the planet, you would be grumpy too.
 
