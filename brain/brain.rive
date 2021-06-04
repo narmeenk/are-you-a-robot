@@ -8,12 +8,12 @@
 - That is a nice name, <formal> for a human whose species is destroying the planet. Do you think you are worthy? Yes or No
 
 + yes
-- Are you sure you are not one of those pesky humans who waste and pollute, you may think you are worthy though I highly doubt so. You humans are really self-obsessed, never think about how your actions affect your surrounding. {topic=landfillwaste}
+- Are you sure you are not one of those pesky humans who waste and pollute, you may think you are worthy though I highly doubt so. You humans are really self-obsessed, never think about how your actions affect your surrounding. {topic=recycling}
 - Are you always throwing things away instead of upcycling them? Answer with yes or no. {topic=worthyyesupcycling}
 
 + no 
 - So you are one of those pesky humans who is poluting and destroying the planet. Do you even know what upcycling is? Answer with yes or no. {topic=worthynoupcycling}
-- So you are one of those pesky humans who is creating waste and destroying the planet. do you even know how mutch waste you create and how bad it is for the environment? {topic=landfillwaste}
+- So you are one of those pesky humans who is creating waste and destroying the planet. do you even know how mutch waste you create and how bad it is for the environment? {topic=recycling}
 
 > topic worthyyesupcycling
 
@@ -127,7 +127,7 @@
 < topic
 
 
-> topic landfillwaste
+> topic recycling
 
 + i am not wasteful
 % are you sure you are not one of those pesky humans who waste and pollute you may think you are worthy though i highly doubt so you humans are really self obsessed never think about how your actions affect your surrounding
