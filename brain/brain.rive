@@ -55,7 +55,14 @@
 - Says the dumbass.
 
 + that is rude
-- Well so is destroying the planet but you seem to be perfectly fine with that. 
+- So is destroying the planet but you seem to be perfectly fine with that. 
+
++ [*] not fine [*]
+- Are you sure? 
+
++ (yes | ofcourse)
+% are you sure
+- Riiiiiiiight.......I am old and would like to spend my time with people who are actually worthy. Goobye.
 
 > topic
 
@@ -75,6 +82,23 @@
 
 + i am not a baffoon
 - Says the moron who has no idea what upcycling is. It is a creative reuse of a product by turning it into something else you hairless ape.
+
+
++ yes
+% so you are one of those pesky humans who is poluting and destroying the planet do you even know what upcycling is answer with yes or no
+- Oh congralutions for knowing about an important thing and still being useless. It really takes skill.
+
++ i am not useless
+% oh congralutions for knowing about an important thing and still being useless it really takes skill
+- Have you ever upcycled anything? Yes/No.
+
++ yes
+% have you ever upcycled anything yes no
+- So what dumbass thing did you make, was it even good?
+
++ *
+% so what dumbass thing did you make was it even good
+- Well that sounds mediocre. 
 
 
 < topic
@@ -131,7 +155,7 @@
 - I'm a bin, all i do is sit here and watch you humans destory the planet.
 - If you had to watch a bunch of hairless apes destroy the planet, you would be grumpy too.
 
-+ goodbye
++ (goodbye | bye)
 - Finally.
 - Thank god your leaving.
 
