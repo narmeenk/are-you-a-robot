@@ -12,8 +12,8 @@
 - Are you always throwing things away instead of upcycling them? Answer with yes or no. {topic=worthyyesupcycling}
 
 + no 
-- So you are one of those pesky humans who is poluting and destroying the planet. Do you even know what upcycling is? Answer with yes or no. {topic=worthynoupcycling}
-- So you are one of those pesky humans who is creating waste and destroying the planet. do you even know how mutch waste you create and how bad it is for the environment? {topic=recycling}
+- So you are one of those pesky humans who is polluting and destroying the planet. Do you even know what upcycling is? Answer with yes or no. {topic=worthynoupcycling}
+- So you are one of those pesky humans who is creating waste and destroying the planet. Do you even know how much waste you create and how bad it is for the environment? {topic=recycling}
 
 > topic worthyyesupcycling
 
@@ -77,7 +77,7 @@
 > topic worthynoupcycling 
 
 + no
-% so you are one of those pesky humans who is poluting and destroying the planet do you even know what upcycling is answer with yes or no
+% so you are one of those pesky humans who is polluting and destroying the planet do you even know what upcycling is answer with yes or no
 - Wow, I already had a low opinion of you humans, now it has gone underground.
 
 + we are not that bad
